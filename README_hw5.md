@@ -15,7 +15,7 @@
 
 ### 🎥 Video Demo Presentation
 Video trình bày trực tiếp thao tác chạy truy vấn SQL, giải thích code và kiểm tra kết quả thực tế trên phpMyAdmin (OBS Recording):
-- **Link Video YouTube:** [Dán link video YouTube Unlisted của bạn vào đây]
+- **Link Video YouTube:** https://youtu.be/sMaLgfHRn1Q
 - **Playlist môn học:** `INS3064 — Homework — Đỗ Thùy Linh`
 
 ---
